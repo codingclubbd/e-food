@@ -1,0 +1,41 @@
+.search_area {
+  margin: 20px auto;
+  h1 {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+  p {
+    font-size: 20px;
+    text-align: center;
+  }
+  .search_box {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    background: red;
+    margin-top: 10px;
+
+    .common {
+      padding: 10px 6px;
+    }
+    input {
+      @extend .common;
+
+      flex: 1;
+    }
+    button {
+      @extend .common;
+      @include btn();
+    }
+  }
+  @media #{$mobile} {
+    h1 {
+      font-size: 1.5rem;
+    }
+    p {
+      margin-top: 14px;
+      font-size: 16px;
+    }
+  }
+}

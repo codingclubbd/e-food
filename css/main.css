@@ -1,0 +1,523 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1170px;
+  padding: 15px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+.close {
+  background: white !important;
+  padding: 5px;
+  margin: 5px;
+  position: absolute;
+  right: 0;
+  border: none;
+  cursor: pointer;
+}
+
+.modal_content {
+  padding: 10px;
+}
+
+#snackbar {
+  visibility: hidden;
+  /* Hidden by default. Visible on click */
+  min-width: 250px;
+  /* Set a default minimum width */
+  margin-left: -125px;
+  /* Divide value of min-width by 2 */
+  background-color: #333;
+  /* Black background color */
+  color: #fff;
+  /* White text color */
+  text-align: center;
+  /* Centered text */
+  border-radius: 2px;
+  /* Rounded borders */
+  padding: 16px;
+  /* Padding */
+  position: fixed;
+  /* Sit on top of the screen */
+  z-index: 1;
+  /* Add a z-index if needed */
+  left: 50%;
+  /* Center the snackbar */
+  bottom: 30px;
+  /* 30px from the bottom */
+}
+
+/* Show the snackbar when clicking on a button (class added with JavaScript) */
+#snackbar.show {
+  visibility: visible;
+  /* Show the snackbar */
+  /* Add animation: Take 0.5 seconds to fade in and out the snackbar.
+  However, delay the fade out process for 2.5 seconds */
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+/* Animations to fade the snackbar in and out */
+@-webkit-keyframes fadein {
+  from {
+    bottom: 0;
+    opacity: 0;
+  }
+  to {
+    bottom: 30px;
+    opacity: 1;
+  }
+}
+
+@keyframes fadein {
+  from {
+    bottom: 0;
+    opacity: 0;
+  }
+  to {
+    bottom: 30px;
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeout {
+  from {
+    bottom: 30px;
+    opacity: 1;
+  }
+  to {
+    bottom: 0;
+    opacity: 0;
+  }
+}
+
+@keyframes fadeout {
+  from {
+    bottom: 30px;
+    opacity: 1;
+  }
+  to {
+    bottom: 0;
+    opacity: 0;
+  }
+}
+
+header {
+  background: #2196f3;
+  width: 100%;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+header .inner_header {
+  height: 55px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+header .inner_header .logo a {
+  font-size: 34px;
+  color: wheat;
+}
+
+@media (max-width: 767px) {
+  header .inner_header {
+    position: relative;
+  }
+}
+
+header .inner_header #nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 15px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+header .inner_header #nav ul a {
+  color: #fff;
+}
+
+@media (max-width: 767px) {
+  header .inner_header #nav {
+    display: block;
+    position: absolute;
+    background: #000;
+    top: 55px;
+    left: 0;
+    width: 100%;
+    padding: 15px;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out;
+    transition: -webkit-transform 0.5s ease-in-out;
+    transition: transform 0.5s ease-in-out;
+    transition: transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;
+    -webkit-transform: scaleY(0);
+            transform: scaleY(0);
+    -webkit-transform-origin: top;
+            transform-origin: top;
+  }
+  header .inner_header #nav ul {
+    display: block;
+  }
+  header .inner_header #nav ul li {
+    background: rgba(255, 255, 255, 0.5);
+    margin: 5px 0;
+    padding: 5px;
+  }
+  header .inner_header #nav ul li a {
+    display: block;
+    width: 100%;
+  }
+}
+
+.toggler {
+  display: none;
+}
+
+.toggler span {
+  font-size: 40px;
+  color: #fff;
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {
+  .toggler {
+    display: block;
+  }
+}
+
+.show {
+  -webkit-transform: scaleY(1) !important;
+          transform: scaleY(1) !important;
+}
+
+.cart-area {
+  position: relative;
+}
+
+.cart-area .total_items {
+  background: orange;
+  position: absolute;
+  width: 25px;
+  height: 30px;
+  border-radius: 50%;
+  right: -20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #fff;
+  top: -15px;
+}
+
+.cart-area span {
+  color: white;
+}
+
+.cart {
+  cursor: pointer;
+  background: unset;
+  border: none;
+}
+
+.search_area {
+  margin: 20px auto;
+}
+
+.search_area h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.search_area p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.search_area .search_box {
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: red;
+  margin-top: 10px;
+}
+
+.search_area .search_box .common, .search_area .search_box input, .search_area .search_box button {
+  padding: 10px 6px;
+}
+
+.search_area .search_box input {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+.search_area .search_box button {
+  color: #fff;
+  background: #f50057;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {
+  .search_area h1 {
+    font-size: 1.5rem;
+  }
+  .search_area p {
+    margin-top: 14px;
+    font-size: 16px;
+  }
+}
+
+.food_display {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.category_card {
+  -ms-flex-preferred-size: 350px;
+      flex-basis: 350px;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  margin: 20px 15px;
+  -webkit-box-shadow: 0px 0px 9px -2px #000000;
+          box-shadow: 0px 0px 9px -2px #000000;
+}
+
+.category_card h3 {
+  font-size: 25px;
+  padding: 10px 15px;
+}
+
+.category_card .category_image {
+  text-align: center;
+}
+
+.category_card .bottom {
+  border: 1px solid #ddd;
+  padding: 10px;
+  background: #ddd;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.category_card .bottom button {
+  padding: 8px 10px;
+  color: #fff;
+  background: #f50057;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.overlay {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  left: 0;
+  top: 0;
+}
+
+.inner_modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background: #fff;
+  min-height: 500px;
+  max-width: 400px;
+  width: 100%;
+}
+
+.close {
+  background: red;
+  padding: 5px;
+}
+
+footer {
+  background: #212121;
+  display: block;
+  padding: 15px;
+  width: 100%;
+}
+
+footer p {
+  text-align: center;
+  color: white;
+}
+
+.cart_page {
+  max-width: 1080px;
+  min-height: 80vh;
+  margin: 80px auto;
+  width: 100%;
+}
+
+.cart_table {
+  width: 100%;
+}
+
+.cart_table thead tr {
+  background: #ff523b;
+  width: 100%;
+}
+
+.cart_table thead tr th {
+  text-align: left;
+  color: white;
+  padding: 10px 5px;
+  margin: 0;
+}
+
+.cart_table thead tr th:first-child {
+  width: 50%;
+}
+
+.item {
+  margin: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.item p:first-child {
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.item .price {
+  margin: 5px 0;
+}
+
+.item .item_thumb {
+  width: 80px;
+  margin-right: 10px;
+}
+
+.item .item_thumb img {
+  width: 100%;
+}
+
+.item button {
+  background: unset;
+  border: none;
+  color: #ff523b;
+  cursor: pointer;
+}
+
+td.quantity {
+  text-align: left;
+}
+
+td.quantity input {
+  width: 50px;
+  padding: 8px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+td.quantity button {
+  width: 50px;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+td.quantity div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.total_price table {
+  border-top: 2px solid #ff523b;
+  width: 250px;
+  margin-left: auto;
+}
+
+.Purchase_btn {
+  margin-top: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: right;
+      -ms-flex-pack: right;
+          justify-content: right;
+}
+
+.Purchase_btn button {
+  background: #f50057;
+  color: white;
+  border: white;
+  padding: 8px;
+  font-size: 20px;
+  cursor: pointer;
+}

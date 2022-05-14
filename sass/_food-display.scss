@@ -1,0 +1,30 @@
+.food_display {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.category_card {
+  flex-basis: 350px;
+  flex: 1;
+  margin: 20px 15px;
+  box-shadow: 0px 0px 9px -2px #000000;
+  h3 {
+    font-size: 25px;
+    padding: 10px 15px;
+  }
+  .category_image {
+    text-align: center;
+  }
+  .bottom {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background: #ddd;
+    display: flex;
+    justify-content: space-around;
+    button {
+      padding: 8px 10px;
+      @include btn();
+    }
+  }
+}

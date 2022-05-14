@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>E-commerce</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet" />
+  <link rel="stylesheet" href="./css/main.css" />
+  <script src="./js/app.js" defer></script>
+
+ 
+</head>
+
+<body>
+  <!-- header starts -->
+  <header id="header">
+    <div class="inner_header container">
+      <div class="logo">
+        <a href="/">E-food</a>
+      </div>
+
+      <nav id="nav">
+        <ul>
+          <li class="navLink"><a href="">Home</a></li>
+          <li class="navLink"><a href="">Items</a></li>
+          <li class="navLink"><a href="">Pricing</a></li>
+          <li class="navLink">
+            <a href="./cart.html">
+              <div class="cart-area">
+                <button class="cart">
+                  <div class="total_items"></div>
+                  <span class="material-icons-outlined"> add_shopping_cart </span>
+                </button>
+              </div>
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+      <div class="toggler">
+        <span class="material-icons-outlined"> menu </span>
+      </div>
+    </div>
+  </header>
+  <!-- header ends -->
+
+  <main>
+    <!-- search area  starts-->
+    <div class="search_area container">
+      <h1>Search Your Favorite Foods</h1>
+      <p>Best place to get your desire food.</p>
+      <div class="search_box">
+        <input type="text" name="foodName" placeholder="Search by food name" id="search team" />
+        <button class="searchBtn">Find Food</button>
+      </div>
+    </div>
+    <!-- search area  ends-->
+
+    <!-- food display area starts-->
+    <div class="food_display container"></div>
+    <!-- food display area ends-->
+  </main>
+
+  <div class="modal">
+    <div class="overlay"></div>
+    <div class="inner_modal">
+      <button class="close">X</button>
+      <div class="modal_content"></div>
+    </div>
+  </div>
+
+  
+
+  <!-- Footer starts -->
+  <footer>
+    <p>Copyright &copy; All reserved 💕 Md. Rokibul Hasan</p>
+  </footer>
+  <!-- Footer ends -->
+</body>
+
+</html>

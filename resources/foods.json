@@ -1,0 +1,1674 @@
+{
+    "meals": [{
+            "strMeal": "Bean & Sausage Hotpot",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
+            "idMeal": "52848",
+            "category": "Miscellaneous",
+            "price":252
+        },
+        {
+            "strMeal": "Callaloo Jamaican Style",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg",
+            "idMeal": "52939",
+            "category": "Miscellaneous",
+            "price":263
+        },
+        {
+            "strMeal": "Chakchouka",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
+            "idMeal": "52969",
+            "category": "Miscellaneous",
+            "price":965
+        },
+        {
+            "strMeal": "Duck Confit",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg",
+            "idMeal": "52907",
+            "category": "Miscellaneous",
+            "price":965
+        },
+        {
+            "strMeal": "French Lentils With Garlic and Thyme",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+            "idMeal": "52815",
+            "category": "Miscellaneous",
+            "price":65
+        },
+        {
+            "strMeal": "French Omelette",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+            "idMeal": "52915",
+            "category": "Miscellaneous",
+            "price":251
+        },
+        {
+            "strMeal": "Osso Buco alla Milanese",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+            "idMeal": "52810",
+            "category": "Miscellaneous",
+            "price":321
+        },
+        {
+            "strMeal": "Pizza Express Margherita",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+            "idMeal": "53014",
+            "category": "Miscellaneous",
+            "price":421
+        },
+        {
+            "strMeal": "Poutine",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+            "idMeal": "52804",
+            "category": "Miscellaneous",
+            "price":651
+        },
+        {
+            "strMeal": "Three-cheese souffles",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/sxwquu1511793428.jpg",
+            "idMeal": "52912",
+            "category": "Miscellaneous",
+            "price":65
+        },
+        {
+            "strMeal": "Turkey Meatloaf",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg",
+            "idMeal": "52845",
+            "category": "Miscellaneous",
+            "price":102
+        },
+
+        {
+            "strMeal": "Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg",
+            "idMeal": "52997",
+            "category": "Beef",
+            "price":150
+        },
+        {
+            "strMeal": "Beef Bourguignon",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg",
+            "idMeal": "52904",
+            "category": "Beef",
+            "price":136
+        },
+        {
+            "strMeal": "Beef Brisket Pot Roast",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+            "idMeal": "52812",
+            "category": "Beef",
+            "price":125
+        },
+        {
+            "strMeal": "Beef Dumpling Stew",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg",
+            "idMeal": "52873",
+            "category": "Beef",
+            "price":124
+        },
+        {
+            "strMeal": "Beef Lo Mein",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+            "idMeal": "52952",
+            "category": "Beef",
+            "price":126
+        },
+        {
+            "strMeal": "Beef Rendang",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg",
+            "idMeal": "53053",
+            "category": "Beef",
+            "price":126
+        },
+        {
+            "strMeal": "Beef stroganoff",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+            "idMeal": "52834",
+            "category": "Beef",
+            "price":122
+        },
+        {
+            "strMeal": "Beef Sunday Roast",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
+            "idMeal": "52824",
+            "category": "Beef",
+            "price":101
+        },
+        {
+            "strMeal": "Beef Wellington",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+            "idMeal": "52803",
+            "category": "Beef",
+            "price":102
+        },
+        {
+            "strMeal": "Big Mac",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+            "idMeal": "53013",
+            "category": "Beef",
+            "price":103
+        },
+        {
+            "strMeal": "Bitterballen (Dutch meatballs)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg",
+            "idMeal": "52979",
+            "category": "Beef",
+            "price":104
+        },
+        {
+            "strMeal": "Braised Beef Chilli",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg",
+            "idMeal": "52826",
+            "category": "Beef",
+            "price":105
+        },
+        {
+            "strMeal": "Cevapi Sausages",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vc08jn1628769553.jpg",
+            "idMeal": "53055",
+            "category": "Beef",
+            "price":106
+        },
+        {
+            "strMeal": "Chivito uruguayo",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/n7qnkb1630444129.jpg",
+            "idMeal": "53063",
+            "category": "Beef",
+            "price":107
+        },
+        {
+            "strMeal": "Corned Beef and Cabbage",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xb97a81583266727.jpg",
+            "idMeal": "52998",
+            "category": "Beef",
+            "price":10
+        },
+        {
+            "strMeal": "Croatian Bean Stew",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/tnwy8m1628770384.jpg",
+            "idMeal": "53058",
+            "category": "Beef",
+            "price":105
+        },
+        {
+            "strMeal": "Croatian lamb peka",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/pn59o51628769837.jpg",
+            "idMeal": "53056",
+            "category": "Beef",
+            "price":108
+        },
+        {
+            "strMeal": "Egyptian Fatteh",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg",
+            "idMeal": "53031",
+            "category": "Beef",
+            "price":107
+        },
+        {
+            "strMeal": "Gołąbki (cabbage roll)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/q8sp3j1593349686.jpg",
+            "idMeal": "53021",
+            "category": "Beef",
+            "price":105
+        },
+        {
+            "strMeal": "Irish stew",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg",
+            "idMeal": "52781",
+            "category": "Beef",
+            "price":120
+        },
+        {
+            "strMeal": "Jamaican Beef Patties",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wsqqsw1515364068.jpg",
+            "idMeal": "52938",
+            "category": "Beef",
+            "price":142
+        },
+        {
+            "strMeal": "Ma Po Tofu",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+            "idMeal": "52947",
+            "category": "Beef",
+            "price":163
+        },
+        {
+            "strMeal": "Massaman Beef curry",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
+            "idMeal": "52827",
+            "category": "Beef",
+            "price":142
+        },
+        {
+            "strMeal": "Minced Beef Pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xwutvy1511555540.jpg",
+            "idMeal": "52876",
+            "category": "Beef",
+            "price":14
+        },
+        {
+            "strMeal": "Montreal Smoked Meat",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg",
+            "idMeal": "52927",
+            "category": "Beef",
+            "price":142
+        },
+        {
+            "strMeal": "Moussaka",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
+            "idMeal": "53006",
+            "category": "Beef",
+            "price":107
+        },
+        {
+            "strMeal": "Mulukhiyah",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg",
+            "idMeal": "53029",
+            "category": "Beef",
+            "price":156
+        },
+        {
+            "strMeal": "Oxtail with broad beans",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520083578.jpg",
+            "idMeal": "52943",
+            "category": "Beef",
+            "price":155
+        },
+        {
+            "strMeal": "Paszteciki (Polish Pasties)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/c9a3l31593261890.jpg",
+            "idMeal": "53017",
+            "category": "Beef",
+            "price":155
+        },
+        {
+            "strMeal": "Pate Chinois",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg",
+            "idMeal": "52930",
+            "category": "Beef",
+            "price":152
+        },
+        {
+            "strMeal": "Portuguese prego with green piri-piri",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ewcikl1614348364.jpg",
+            "idMeal": "53042",
+            "category": "Beef",
+            "price":152
+        },
+        {
+            "strMeal": "Red Peas Soup",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/sqpqtp1515365614.jpg",
+            "idMeal": "52941",
+            "category": "Beef",
+            "price":152
+        },
+        {
+            "strMeal": "Roti john",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg",
+            "idMeal": "53052",
+            "category": "Beef",
+            "price":154
+        },
+        {
+            "strMeal": "Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/o2wb6p1581005243.jpg",
+            "idMeal": "52992",
+            "category": "Beef",
+            "price":15
+        },
+        {
+            "strMeal": "Spaghetti Bolognese",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+            "idMeal": "52770",
+            "category": "Beef",
+            "price":154
+        },
+        {
+            "strMeal": "Steak and Kidney Pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qysyss1511558054.jpg",
+            "idMeal": "52881",
+            "category": "Beef",
+            "price":150
+        },
+        {
+            "strMeal": "Steak Diane",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vussxq1511882648.jpg",
+            "idMeal": "52935",
+            "category": "Beef",
+            "price":156
+        },
+        {
+            "strMeal": "Szechuan Beef",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
+            "idMeal": "52950",
+            "category": "Beef",
+            "price":112
+        },
+        {
+            "strMeal": "Traditional Croatian Goulash",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/n1hcou1628770088.jpg",
+            "idMeal": "53057",
+            "category": "Beef",
+            "price":175
+        },
+        {
+            "strMeal": "Vegetable Shepherd's Pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/w8umt11583268117.jpg",
+            "idMeal": "53000",
+            "category": "Beef",
+            "price":156
+        },
+       
+        
+        {
+            "strMeal": "Apam balik",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
+            "idMeal": "53049",
+            "category": "Dessert",
+            "price":83
+        },
+        {
+            "strMeal": "Apple & Blackberry Crumble",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+            "idMeal": "52893",
+            "category": "Dessert",
+            "price":84
+        },
+        {
+            "strMeal": "Apple Frangipan Tart",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+            "idMeal": "52768",
+            "category": "Dessert",
+            "price":85
+        },
+        {
+            "strMeal": "Bakewell tart",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg",
+            "idMeal": "52767",
+            "category": "Dessert",
+            "price":86
+        },
+        {
+            "strMeal": "Banana Pancakes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+            "idMeal": "52855",
+            "category": "Dessert",
+            "price":87
+        },
+        {
+            "strMeal": "Battenberg Cake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ywwrsp1511720277.jpg",
+            "idMeal": "52894",
+            "category": "Dessert",
+            "price":88
+        },
+        {
+            "strMeal": "BeaverTails",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg",
+            "idMeal": "52928",
+            "category": "Dessert",
+            "price":89
+        },
+        {
+            "strMeal": "Blackberry Fool",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg",
+            "idMeal": "52891",
+            "category": "Dessert",
+            "price":90
+        },
+        {
+            "strMeal": "Bread and Butter Pudding",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
+            "idMeal": "52792",
+            "category": "Dessert",
+            "price":91
+        },
+        {
+            "strMeal": "Budino Di Ricotta",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
+            "idMeal": "52961",
+            "category": "Dessert",
+            "price":92
+        },
+        {
+            "strMeal": "Canadian Butter Tarts",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg",
+            "idMeal": "52923",
+            "category": "Dessert",
+            "price":93
+        },
+        {
+            "strMeal": "Carrot Cake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg",
+            "idMeal": "52897",
+            "category": "Dessert",
+            "price":94
+        },
+        {
+            "strMeal": "Cashew Ghoriba Biscuits",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg",
+            "idMeal": "52976",
+            "category": "Dessert",
+            "price":95
+        },
+        {
+            "strMeal": "Chelsea Buns",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vqpwrv1511723001.jpg",
+            "idMeal": "52898",
+            "category": "Dessert",
+            "price":96
+        },
+        {
+            "strMeal": "Chinon Apple Tarts",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg",
+            "idMeal": "52910",
+            "category": "Dessert",
+            "price":97
+        },
+        {
+            "strMeal": "Choc Chip Pecan Pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rqvwxt1511384809.jpg",
+            "idMeal": "52856",
+            "category": "Dessert",
+            "price":98
+        },
+        {
+            "strMeal": "Chocolate Avocado Mousse",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg",
+            "idMeal": "52853",
+            "category": "Dessert",
+            "price":99
+        },
+        {
+            "strMeal": "Chocolate Caramel Crispy",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1550442508.jpg",
+            "idMeal": "52966",
+            "category": "Dessert",
+            "price":100
+        },
+        {
+            "strMeal": "Chocolate Gateau",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+            "idMeal": "52776",
+            "category": "Dessert",
+            "price":101
+        },
+        {
+            "strMeal": "Chocolate Raspberry Brownies",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg",
+            "idMeal": "52860",
+            "category": "Dessert",
+            "price":102
+        },
+        {
+            "strMeal": "Chocolate Souffle",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg",
+            "idMeal": "52905",
+            "category": "Dessert",
+            "price":103
+        },
+        {
+            "strMeal": "Christmas cake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ldnrm91576791881.jpg",
+            "idMeal": "52990",
+            "category": "Dessert",
+            "price":104
+        },
+        {
+            "strMeal": "Christmas Pudding Flapjack",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg",
+            "idMeal": "52788",
+            "category": "Dessert",
+            "price":105
+        },
+        {
+            "strMeal": "Christmas Pudding Trifle",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/r33cud1576791081.jpg",
+            "idMeal": "52989",
+            "category": "Dessert",
+            "price":106
+        },
+        {
+            "strMeal": "Classic Christmas pudding",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1d85821576790598.jpg",
+            "idMeal": "52988",
+            "category": "Dessert",
+            "price":107
+        },
+        {
+            "strMeal": "Dundee cake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wxyvqq1511723401.jpg",
+            "idMeal": "52899",
+            "category": "Dessert",
+            "price":108
+        },
+        {
+            "strMeal": "Eccles Cakes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wtqrqw1511639627.jpg",
+            "idMeal": "52888",
+            "category": "Dessert",
+            "price":109
+        },
+        {
+            "strMeal": "Eton Mess",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg",
+            "idMeal": "52791",
+            "category": "Dessert",
+            "price":110
+        },
+        {
+            "strMeal": "Honey Yogurt Cheesecake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg",
+            "idMeal": "53007",
+            "category": "Dessert",
+            "price":111
+        },
+        {
+            "strMeal": "Hot Chocolate Fudge",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg",
+            "idMeal": "52787",
+            "category": "Dessert",
+            "price":112
+        },
+        {
+            "strMeal": "Jam Roly-Poly",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysqupp1511640538.jpg",
+            "idMeal": "52890",
+            "category": "Dessert",
+            "price":113
+        },
+        {
+            "strMeal": "Key Lime Pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qpqtuu1511386216.jpg",
+            "idMeal": "52859",
+            "category": "Dessert",
+            "price":114
+        },
+        {
+            "strMeal": "Krispy Kreme Donut",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/4i5cnx1587672171.jpg",
+            "idMeal": "53015",
+            "category": "Dessert",
+            "price":115
+        },
+        {
+            "strMeal": "Madeira Cake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/urtqut1511723591.jpg",
+            "idMeal": "52900",
+            "category": "Dessert",
+            "price":116
+        },
+        {
+            "strMeal": "Mince Pies",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qe8pf51576795532.jpg",
+            "idMeal": "52991",
+            "category": "Dessert",
+            "price":117
+        },
+        {
+            "strMeal": "Nanaimo Bars",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vwuprt1511813703.jpg",
+            "idMeal": "52924",
+            "category": "Dessert",
+            "price":118
+        },
+        {
+            "strMeal": "New York cheesecake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/swttys1511385853.jpg",
+            "idMeal": "52858",
+            "category": "Dessert",
+            "price":119
+        },
+        {
+            "strMeal": "Pancakes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+            "idMeal": "52854",
+            "category": "Dessert",
+            "price":17
+        },
+        {
+            "strMeal": "Parkin Cake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qxuqtt1511724269.jpg",
+            "idMeal": "52902",
+            "category": "Dessert",
+            "price":18
+        },
+        {
+            "strMeal": "Peach & Blueberry Grunt",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg",
+            "idMeal": "52862",
+            "category": "Dessert",
+            "price":19
+        },
+        {
+            "strMeal": "Peanut Butter Cheesecake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qtuuys1511387068.jpg",
+            "idMeal": "52861",
+            "category": "Dessert",
+            "price":14
+        },
+        {
+            "strMeal": "Peanut Butter Cookies",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1544384070.jpg",
+            "idMeal": "52958",
+            "category": "Dessert",
+            "price":15
+        },
+        {
+            "strMeal": "Pear Tarte Tatin",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rxvxrr1511797671.jpg",
+            "idMeal": "52916",
+            "category": "Dessert",
+            "price":159
+        },
+        {
+            "strMeal": "Polskie Naleśniki (Polish Pancakes)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/58bkyo1593350017.jpg",
+            "idMeal": "53022",
+            "category": "Dessert",
+            "price":151
+        },
+        {
+            "strMeal": "Portuguese custard tarts",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vmz7gl1614350221.jpg",
+            "idMeal": "53046",
+            "category": "Dessert",
+            "price":154
+        },
+        {
+            "strMeal": "Pouding chomeur",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/yqqqwu1511816912.jpg",
+            "idMeal": "52932",
+            "category": "Dessert",
+            "price":155
+        },
+        {
+            "strMeal": "Pumpkin Pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/usuqtp1511385394.jpg",
+            "idMeal": "52857",
+            "category": "Dessert",
+            "price":156
+        },
+        {
+            "strMeal": "Rock Cakes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/tqrrsq1511723764.jpg",
+            "idMeal": "52901",
+            "category": "Dessert",
+            "price":112
+        },
+        {
+            "strMeal": "Rocky Road Fudge",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
+            "idMeal": "52786",
+            "category": "Dessert",
+            "price":114
+        },
+        {
+            "strMeal": "Rogaliki (Polish Croissant Cookies)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7mxnzz1593350801.jpg",
+            "idMeal": "53024",
+            "category": "Dessert",
+            "price":117
+        },
+        {
+            "strMeal": "Salted Caramel Cheescake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xqrwyr1511133646.jpg",
+            "idMeal": "52833",
+            "category": "Dessert",
+            "price":115
+        },
+        {
+            "strMeal": "Seri muka kuih",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/6ut2og1619790195.jpg",
+            "idMeal": "53054",
+            "category": "Dessert",
+            "price":163
+        },
+        {
+            "strMeal": "Spotted Dick",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xqvyqr1511638875.jpg",
+            "idMeal": "52886",
+            "category": "Dessert",
+            "price":164
+        },
+        {
+            "strMeal": "Sticky Toffee Pudding",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xqqqtu1511637379.jpg",
+            "idMeal": "52883",
+            "category": "Dessert",
+            "price":152
+        },
+        {
+            "strMeal": "Sticky Toffee Pudding Ultimate",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg",
+            "idMeal": "52793",
+            "category": "Dessert",
+            "price":101
+        },
+        {
+            "strMeal": "Strawberry Rhubarb Pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg",
+            "idMeal": "53005",
+            "category": "Dessert",
+            "price":152
+        },
+        {
+            "strMeal": "Sugar Pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg",
+            "idMeal": "52931",
+            "category": "Dessert",
+            "price":196
+        },
+        {
+            "strMeal": "Summer Pudding",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rsqwus1511640214.jpg",
+            "idMeal": "52889",
+            "category": "Dessert",
+            "price":112
+        },
+        {
+            "strMeal": "Tarte Tatin",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ryspuw1511786688.jpg",
+            "idMeal": "52909",
+            "category": "Dessert",
+            "price":175
+        },
+        {
+            "strMeal": "Timbits",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg",
+            "idMeal": "52929",
+            "category": "Dessert",
+            "price":185
+        },
+        {
+            "strMeal": "Treacle Tart",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wprvrw1511641295.jpg",
+            "idMeal": "52892",
+            "category": "Dessert",
+            "price":85
+        },
+        {
+            "strMeal": "Tunisian Orange Cake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/y4jpgq1560459207.jpg",
+            "idMeal": "52970",
+            "category": "Dessert",
+            "price":632
+        },
+        {
+            "strMeal": "Walnut Roll Gužvara",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/u9l7k81628771647.jpg",
+            "idMeal": "53062",
+            "category": "Dessert",
+            "price":142
+        },
+        {
+            "strMeal": "White chocolate creme brulee",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uryqru1511798039.jpg",
+            "idMeal": "52917",
+            "category": "Dessert",
+            "price":152
+        },
+        {
+            "strMeal": "Kapsalon",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg",
+            "idMeal": "52769",
+            "category": "Lamb",
+            "price":163
+        },
+        {
+            "strMeal": "Keleya Zaara",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+            "idMeal": "52974",
+            "category": "Lamb",
+            "price":145
+        },
+        {
+            "strMeal": "Lamb and Lemon Souvlaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
+            "idMeal": "53009",
+            "category": "Lamb",
+            "price":12
+        },
+        {
+            "strMeal": "Lamb and Potato pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/sxrpws1511555907.jpg",
+            "idMeal": "52877",
+            "category": "Lamb",
+            "price":75
+        },
+        {
+            "strMeal": "Lamb Biryani",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+            "idMeal": "52805",
+            "category": "Lamb",
+            "price":63
+        },
+        {
+            "strMeal": "Lamb Rogan josh",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+            "idMeal": "52808",
+            "category": "Lamb",
+            "price":85
+        },
+        {
+            "strMeal": "Lamb Tagine",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+            "idMeal": "52843",
+            "category": "Lamb",
+            "price":96
+        },
+        {
+            "strMeal": "Lamb tomato and sweet spices",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+            "idMeal": "52782",
+            "category": "Lamb",
+            "price":42
+        },
+        {
+            "strMeal": "Lamb Tzatziki Burgers",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+            "idMeal": "53010",
+            "category": "Lamb",
+            "price":100
+        },
+        {
+            "strMeal": "Lancashire hotpot",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uttrxw1511637813.jpg",
+            "idMeal": "52884",
+            "category": "Lamb",
+            "price":253
+        },
+        {
+            "strMeal": "McSinghs Scotch pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vssrtx1511557680.jpg",
+            "idMeal": "52880",
+            "category": "Lamb",
+            "price":423
+        },
+        {
+            "strMeal": "Rigatoni with fennel sausage sauce",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+            "idMeal": "52783",
+            "category": "Lamb",
+            "price":632
+        },
+        {
+            "strMeal": "Stuffed Lamb Tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg",
+            "idMeal": "53008",
+            "category": "Lamb",
+            "price":96
+        },
+        {
+            "strMeal": "Tunisian Lamb Soup",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg",
+            "idMeal": "52972",
+            "category": "Lamb",
+            "price":75
+        },
+        {
+            "strMeal": "Chilli prawn linguine",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+            "idMeal": "52839",
+            "category": "Pasta",
+            "price":12
+        },
+        {
+            "strMeal": "Fettucine alfredo",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+            "idMeal": "52835",
+            "category": "Pasta",
+            "price":121
+        },
+        {
+            "strMeal": "Grilled Mac and Cheese Sandwich",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
+            "idMeal": "52829",
+            "category": "Pasta",
+            "price":18
+        },
+        {
+            "strMeal": "Lasagna Sandwiches",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xr0n4r1576788363.jpg",
+            "idMeal": "52987",
+            "category": "Pasta",
+            "price":123
+        },
+        {
+            "strMeal": "Lasagne",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+            "idMeal": "52844",
+            "category": "Pasta",
+            "price":142
+        },
+        {
+            "strMeal": "Pilchard puttanesca",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+            "idMeal": "52837",
+            "category": "Pasta",
+            "price":185
+        },
+        {
+            "strMeal": "Spaghetti alla Carbonara",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+            "idMeal": "52982",
+            "category": "Pasta",
+            "price":112
+        },
+        {
+            "strMeal": "Venetian Duck Ragu",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
+            "idMeal": "52838",
+            "category": "Pasta",
+            "price":96
+        },
+        {
+            "strMeal": " Bubble & Squeak",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg",
+            "idMeal": "52885",
+            "category": "Pork",
+            "price":45
+        },
+        {
+            "strMeal": "BBQ Pork Sloppy Joes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
+            "idMeal": "52995",
+            "category": "Pork",
+            "price":123
+        },
+        {
+            "strMeal": "Bigos (Hunters Stew)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/md8w601593348504.jpg",
+            "idMeal": "53018",
+            "category": "Pork",
+            "price":421
+        },
+        {
+            "strMeal": "Boxty Breakfast",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg",
+            "idMeal": "53036",
+            "category": "Pork",
+            "price":63
+        },
+        {
+            "strMeal": "Coddled pork with cider",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7vpsfp1608588991.jpg",
+            "idMeal": "53037",
+            "category": "Pork",
+            "price":45
+        },
+        {
+            "strMeal": "Crispy Sausages and Greens",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg",
+            "idMeal": "52999",
+            "category": "Pork",
+            "price":63
+        },
+        {
+            "strMeal": "Ham hock colcannon",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/n41ny81608588066.jpg",
+            "idMeal": "53035",
+            "category": "Pork",
+            "price":102
+        },
+        {
+            "strMeal": "Hot and Sour Soup",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+            "idMeal": "52954",
+            "category": "Pork",
+            "price":752
+        },
+        {
+            "strMeal": "Japanese Katsudon",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg",
+            "idMeal": "53034",
+            "category": "Pork",
+            "price":320
+        },
+        {
+            "strMeal": "Pork Cassoulet",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg",
+            "idMeal": "52847",
+            "category": "Pork",
+            "price":63
+        },
+        {
+            "strMeal": "Portuguese barbecued pork (Febras assadas)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/cybyue1614349443.jpg",
+            "idMeal": "53044",
+            "category": "Pork",
+            "price":25
+        },
+        {
+            "strMeal": "Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg",
+            "idMeal": "52994",
+            "category": "Pork",
+            "price":52
+        },
+        {
+            "strMeal": "Stamppot",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg",
+            "idMeal": "52980",
+            "category": "Pork",
+            "price":102
+        },
+        {
+            "strMeal": "Sweet and Sour Pork",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
+            "idMeal": "52949",
+            "category": "Pork",
+            "price":320
+        },
+        {
+            "strMeal": "Toad In The Hole",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ytuvwr1503070420.jpg",
+            "idMeal": "52822",
+            "category": "Pork",
+            "price":520
+        },
+        {
+            "strMeal": "Tonkatsu pork",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg",
+            "idMeal": "53032",
+            "category": "Pork",
+            "price":96
+        },
+        {
+            "strMeal": "Tourtiere",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ytpstt1511814614.jpg",
+            "idMeal": "52926",
+            "category": "Pork",
+            "price":32
+        },
+        {
+            "strMeal": "Vietnamese Grilled Pork (bun-thit-nuong)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg",
+            "idMeal": "52828",
+            "category": "Pork",
+            "price":34
+        },
+        {
+            "strMeal": "Wontons",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+            "idMeal": "52948",
+            "category": "Pork",
+            "price":35
+        },
+        {
+            "strMeal": "Baked salmon with fennel & tomatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": "52959",
+            "category": "Seafood",
+            "price":321
+        },
+        {
+            "strMeal": "Cajun spiced fish tacos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": "52819",
+            "category": "Seafood",
+            "price":38
+        },
+        {
+            "strMeal": "Escovitch Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": "52944",
+            "category": "Seafood",
+            "price":363
+        },
+        {
+            "strMeal": "Fish fofos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+            "idMeal": "53043",
+            "category": "Seafood",
+            "price":120
+        },
+        {
+            "strMeal": "Fish pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+            "idMeal": "52802",
+            "category": "Seafood",
+            "price":124
+        },
+        {
+            "strMeal": "Fish Stew with Rouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "idMeal": "52918",
+            "category": "Seafood",
+            "price":125
+        },
+        {
+            "strMeal": "Garides Saganaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+            "idMeal": "52764",
+            "category": "Seafood",
+            "price":1754
+        },
+        {
+            "strMeal": "Grilled Portuguese sardines",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg",
+            "idMeal": "53041",
+            "category": "Seafood",
+            "price":175
+        },
+        {
+            "strMeal": "Honey Teriyaki Salmon",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+            "idMeal": "52773",
+            "category": "Seafood",
+            "price":16
+        },
+        {
+            "strMeal": "Kedgeree",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
+            "idMeal": "52887",
+            "category": "Seafood",
+            "price":142
+        },
+        {
+            "strMeal": "Kung Po Prawns",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+            "idMeal": "52946",
+            "category": "Seafood",
+            "price":141
+        },
+        {
+            "strMeal": "Laksa King Prawn Noodles",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+            "idMeal": "52821",
+            "category": "Seafood",
+            "price":185
+        },
+        {
+            "strMeal": "Mediterranean Pasta Salad",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+            "idMeal": "52777",
+            "category": "Seafood",
+            "price":113
+        },
+        {
+            "strMeal": "Mee goreng mamak",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg",
+            "idMeal": "53048",
+            "category": "Seafood",
+            "price":114
+        },
+        {
+            "strMeal": "Nasi lemak",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg",
+            "idMeal": "53051",
+            "category": "Chicken",
+            "price":75
+        },
+        {
+            "strMeal": "Portuguese fish stew (Caldeirada de peixe)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg",
+            "idMeal": "53045",
+            "category": "Seafood",
+            "price":96
+        },
+        {
+            "strMeal": "Recheado Masala Fish",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+            "idMeal": "52809",
+            "category": "Seafood",
+            "price":752
+        },
+        {
+            "strMeal": "Salmon Avocado Salad",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
+            "idMeal": "52960",
+            "category": "Seafood",
+            "price": 85
+        },
+        {
+            "strMeal": "Salmon Prawn Risotto",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+            "idMeal": "52823",
+            "category": "Seafood",
+            "price":422
+        },
+        {
+            "strMeal": "Saltfish and Ackee",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg",
+            "idMeal": "52936",
+            "category": "Seafood",
+            "price":632
+        },
+        {
+            "strMeal": "Seafood fideuà",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg",
+            "idMeal": "52836",
+            "category": "Chicken",
+            "price":40
+        },
+        {
+            "strMeal": "Shrimp Chow Fun",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+            "idMeal": "52953",
+            "category": "Seafood",
+            "price":96
+        },
+        {
+            "strMeal": "Sledz w Oleju (Polish Herrings)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg",
+            "idMeal": "53023",
+            "category": "Seafood",
+            "price":96
+        },
+        {
+            "strMeal": "Spring onion and prawn empanadas",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg",
+            "idMeal": "53040",
+            "category": "Seafood",
+            "price":420
+        },
+        {
+            "strMeal": "Three Fish Pie",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/spswqs1511558697.jpg",
+            "idMeal": "52882",
+            "category": "Seafood",
+            "price":420
+        },
+        {
+            "strMeal": "Tuna and Egg Briks",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg",
+            "idMeal": "52975",
+            "category": "Seafood",
+            "price":63
+        },
+        {
+            "strMeal": "Tuna Nicoise",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
+            "idMeal": "52852",
+            "category": "Seafood",
+            "price":63
+        },
+        {
+            "strMeal": "Boulangère Potatoes",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg",
+            "idMeal": "52914",
+            "category": "Side",
+            "price":632
+        },
+        {
+            "strMeal": "Brie wrapped in prosciutto & brioche",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg",
+            "idMeal": "52913",
+            "category": "Side",
+            "price":42
+        },
+        {
+            "strMeal": "Burek",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg",
+            "idMeal": "53060",
+            "category": "Side",
+            "price":96
+        },
+        {
+            "strMeal": "Corba",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+            "idMeal": "52977",
+            "category": "Side",
+            "price":42
+        },
+        {
+            "strMeal": "Fennel Dauphinoise",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ytttsv1511798734.jpg",
+            "idMeal": "52919",
+            "category": "Side",
+            "price":85
+        },
+        {
+            "strMeal": "Feteer Meshaltet",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg",
+            "idMeal": "53030",
+            "category": "Side",
+            "price":42
+        },
+        {
+            "strMeal": "French Onion Soup",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xvrrux1511783685.jpg",
+            "idMeal": "52903",
+            "category": "Side",
+            "price":85
+        },
+        {
+            "strMeal": "Fresh sardines",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/nv5lf31628771380.jpg",
+            "idMeal": "53061",
+            "category": "Side",
+            "price":42
+        },
+        {
+            "strMeal": "Japanese gohan rice",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
+            "idMeal": "53033",
+            "category": "Side",
+            "price":120
+        },
+        {
+            "strMeal": "Kumpir",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+            "idMeal": "52978",
+            "category": "Side",
+            "price":163
+        },
+        {
+            "strMeal": "Mushroom soup with buckwheat",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1ngcbf1628770793.jpg",
+            "idMeal": "53059",
+            "category": "Side",
+            "price":167
+        },
+        {
+            "strMeal": "Mustard champ",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg",
+            "idMeal": "53038",
+            "category": "Side",
+            "price":196
+        },
+        {
+            "strMeal": "Pierogi (Polish Dumplings)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/45xxr21593348847.jpg",
+            "idMeal": "53019",
+            "category": "Side",
+            "price":42
+        },
+        {
+            "strMeal": "Prawn & Fennel Bisque",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rtwwvv1511799504.jpg",
+            "idMeal": "52922",
+            "category": "Side",
+            "price":4
+        },
+        {
+            "strMeal": "Snert (Dutch Split Pea Soup)",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/9ptx0a1565090843.jpg",
+            "idMeal": "52981",
+            "category": "Side",
+            "price":41
+        },
+        {
+            "strMeal": "Split Pea Soup",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg",
+            "idMeal": "52925",
+            "category": "Side",
+            "price":963
+        },
+        {
+            "strMeal": "Broccoli & Stilton soup",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+            "idMeal": "52842",
+            "category": "Starter",
+            "price":96
+        },
+        {
+            "strMeal": "Clam chowder",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+            "idMeal": "52840",
+            "category": "Starter",
+            "price":85
+        },
+        {
+            "strMeal": "Cream Cheese Tart",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+            "idMeal": "52779",
+            "category": "Starter",
+            "price":75
+        },
+        {
+            "strMeal": "Creamy Tomato Soup",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
+            "idMeal": "52841",
+            "category": "Starter",
+            "price":723
+        },
+        {
+            "strMeal": "Roast fennel and aubergine paella",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520081754.jpg",
+            "idMeal": "52942",
+            "category": "Vegan",
+            "price":735
+        },
+        {
+            "strMeal": "Vegan Chocolate Cake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg",
+            "idMeal": "52794",
+            "category": "Chicken",
+            "price":96
+        },
+        {
+            "strMeal": "Vegan Lasagna",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+            "idMeal": "52775",
+            "category": "Vegan",
+            "price":9
+        },
+        {
+            "strMeal": "Baingan Bharta",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+            "idMeal": "52807",
+            "category": "Vegetarian",
+            "price":96
+        },
+        {
+            "strMeal": "Chickpea Fajitas",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+            "idMeal": "52870",
+            "category": "Vegetarian",
+            "price":35
+        },
+        {
+            "strMeal": "Dal fry",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+            "idMeal": "52785",
+            "category": "Vegetarian",
+            "price":35
+        },
+        {
+            "strMeal": "Egg Drop Soup",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
+            "idMeal": "52955",
+            "category": "Vegetarian",
+            "price":421
+        },
+        {
+            "strMeal": "Flamiche",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wssvvs1511785879.jpg",
+            "idMeal": "52906",
+            "category": "Vegetarian",
+            "price":652
+        },
+        {
+            "strMeal": "Ful Medames",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/lvn2d51598732465.jpg",
+            "idMeal": "53025",
+            "category": "Vegetarian",
+            "price":65
+        },
+        {
+            "strMeal": "Gigantes Plaki",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg",
+            "idMeal": "53012",
+            "category": "Vegetarian",
+            "price":96
+        },
+        {
+            "strMeal": "Kafteji",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
+            "idMeal": "52971",
+            "category": "Vegetarian",
+            "price":75
+        },
+        {
+            "strMeal": "Kidney Bean Curry",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+            "idMeal": "52868",
+            "category": "Vegetarian",
+            "price":50
+        },
+        {
+            "strMeal": "Koshari",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+            "idMeal": "53027",
+            "category": "Vegetarian",
+            "price":56
+        },
+        {
+            "strMeal": "Leblebi Soup",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
+            "idMeal": "52973",
+            "category": "Vegetarian",
+            "price":75
+        },
+        {
+            "strMeal": "Matar Paneer",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+            "idMeal": "52865",
+            "category": "Vegetarian",
+            "price":74
+        },
+        {
+            "strMeal": "Moroccan Carrot Soup",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg",
+            "idMeal": "53047",
+            "category": "Vegetarian",
+            "price":763
+        },
+        {
+            "strMeal": "Mushroom & Chestnut Rotolo",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ssyqwr1511451678.jpg",
+            "idMeal": "52864",
+            "category": "Vegetarian",
+            "price":96
+        },
+        {
+            "strMeal": "Provençal Omelette Cake",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qwtrtp1511799242.jpg",
+            "idMeal": "52921",
+            "category": "Vegetarian",
+            "price":98
+        },
+        {
+            "strMeal": "Ratatouille",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wrpwuu1511786491.jpg",
+            "idMeal": "52908",
+            "category": "Vegetarian",
+            "price":75
+        },
+        {
+            "strMeal": "Ribollita",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+            "idMeal": "52811",
+            "category": "Vegetarian",
+            "price":96
+        },
+        {
+            "strMeal": "Roasted Eggplant With Tahini, Pine Nuts, and Lentils",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ysqrus1487425681.jpg",
+            "idMeal": "52816",
+            "category": "Vegetarian",
+            "price":75
+        },
+        {
+            "strMeal": "Shakshuka",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+            "idMeal": "52963",
+            "category": "Vegetarian",
+            "price":72
+        },
+        {
+            "strMeal": "Smoky Lentil Chili with Squash",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
+            "idMeal": "52784",
+            "category": "Vegetarian",
+            "price":63
+        },
+        {
+            "strMeal": "Spanish Tortilla",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/quuxsx1511476154.jpg",
+            "idMeal": "52872",
+            "category": "Vegetarian",
+            "price":67
+        },
+        {
+            "strMeal": "Spicy Arrabiata Penne",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+            "idMeal": "52771",
+            "category": "Vegetarian",
+            "price":32
+        },
+        {
+            "strMeal": "Spicy North African Potato Salad",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+            "idMeal": "52797",
+            "category": "Vegetarian",
+            "price":63
+        },
+        {
+            "strMeal": "Spinach & Ricotta Cannelloni",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
+            "idMeal": "52849",
+            "category": "Vegetarian",
+            "price":42
+        },
+        {
+            "strMeal": "Squash linguine",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
+            "idMeal": "52866",
+            "category": "Vegetarian",
+            "price":421
+        },
+        {
+            "strMeal": "Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg",
+            "idMeal": "52817",
+            "category": "Vegetarian",
+            "price":42
+        },
+        {
+            "strMeal": "Summer Pistou",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rqtxvr1511792990.jpg",
+            "idMeal": "52911",
+            "category": "Vegetarian",
+            "price":49
+        },
+        {
+            "strMeal": "Tahini Lentils",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg",
+            "idMeal": "52869",
+            "category": "Vegetarian",
+            "price":46
+        },
+        {
+            "strMeal": "Tamiya",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+            "idMeal": "53026",
+            "category": "Vegetarian",
+            "price":75
+        },
+        {
+            "strMeal": "Vegetarian Casserole",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg",
+            "idMeal": "52863",
+            "category": "Vegetarian",
+            "price":96
+        },
+        {
+            "strMeal": "Vegetarian Chilli",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wqurxy1511453156.jpg",
+            "idMeal": "52867",
+            "category": "Vegetarian",
+            "price":72
+        },
+        {
+            "strMeal": "Yaki Udon",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg",
+            "idMeal": "52871",
+            "category": "Vegetarian",
+            "price":45
+        }
+
+
+    ]
+}

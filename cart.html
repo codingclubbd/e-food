@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart | RedStore</title>
+    <link
+    href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined"
+    rel="stylesheet"
+  />
+    <link rel="stylesheet" href="./css/main.css">
+    <script src="./js/cart.js" defer></script>
+
+</head>
+<body>
+        <!-- header starts -->
+        <header id="header">
+            <div class="inner_header container">
+              <div class="logo">
+                <a href="/">E-food</a>
+              </div>
+      
+              <nav id="nav">
+                <ul>
+                  <li class="navLink"><a href="">Home</a></li>
+                  <li class="navLink"><a href="">Items</a></li>
+                  <li class="navLink"><a href="">Pricing</a></li>
+                  <li class="navLink">
+                  <a href="./cart.html">
+                    <div class="cart-area">
+                      <button class="cart">
+                        <div class="total_items"></div>
+                        <span class="material-icons-outlined"> add_shopping_cart </span>
+                      </button>
+                     </div>
+                  </a>
+                  </li>
+                </ul>
+              </nav>
+      
+              <div class="toggler">
+                <span class="material-icons-outlined"> menu </span>
+              </div>
+            </div>
+          </header>
+
+      <div class="cart_page">
+         <table class="cart_table">
+             <thead>
+                 <tr>
+                     <th>Product</th>
+                     <th>Quantity</th>
+                     <th>Subtotal</th>
+                 </tr>
+             </thead>
+             <tbody id="cart_items"></tbody>
+         </table>
+
+         <div class="total_price"  id="total_price">
+            <table>
+                <tbody><tr>
+                    <td>Subtotal</td>
+                    <td id="subTotal">0</td>
+                </tr>
+               
+            </tbody></table>
+
+        </div>
+        <div class="Purchase_btn">
+          <button id="checkout">Checkout</button>
+        </div>
+
+      </div>
+
+</body>
+</html>
